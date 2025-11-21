@@ -1,0 +1,15 @@
+{
+    "name": "felt/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Felt\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felt",
+            "email": "icebadass@gmail.com"
+        }
+    ],
+    "require": {}
+}
